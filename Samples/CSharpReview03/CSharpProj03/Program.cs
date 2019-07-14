@@ -8,7 +8,8 @@ namespace CSharpProj03
 {
     class Program
     {
-        static iRoom room;
+        // static iRoom room;
+        static Room room;
 
         static Program()
         {

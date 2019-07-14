@@ -3,3 +3,9 @@ C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview03\CShar
 C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview03\CSharpProj03\bin\Debug\CSharpProj03.pdb
 C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview03\CSharpProj03\obj\Debug\CSharpProj03.exe
 C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview03\CSharpProj03\obj\Debug\CSharpProj03.pdb
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Ground-Gurus-Training-master\Samples\CSharpReview03\CSharpProj03\bin\Debug\CSharpProj03.exe.config
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Ground-Gurus-Training-master\Samples\CSharpReview03\CSharpProj03\obj\Debug\CSharpProj03.exe
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Ground-Gurus-Training-master\Samples\CSharpReview03\CSharpProj03\obj\Debug\CSharpProj03.pdb
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Ground-Gurus-Training-master\Samples\CSharpReview03\CSharpProj03\bin\Debug\CSharpProj03.exe
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Ground-Gurus-Training-master\Samples\CSharpReview03\CSharpProj03\bin\Debug\CSharpProj03.pdb
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Ground-Gurus-Training-master\Samples\CSharpReview03\CSharpProj03\obj\Debug\CSharpProj03.csprojResolveAssemblyReference.cache
