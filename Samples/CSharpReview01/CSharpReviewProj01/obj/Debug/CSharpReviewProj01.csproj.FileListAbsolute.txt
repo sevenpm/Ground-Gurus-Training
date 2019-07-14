@@ -1,0 +1,6 @@
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview01\CSharpReviewProj01\bin\Debug\CSharpReviewProj01.exe.config
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview01\CSharpReviewProj01\bin\Debug\CSharpReviewProj01.exe
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview01\CSharpReviewProj01\bin\Debug\CSharpReviewProj01.pdb
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview01\CSharpReviewProj01\obj\Debug\CSharpReviewProj01.csprojResolveAssemblyReference.cache
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview01\CSharpReviewProj01\obj\Debug\CSharpReviewProj01.exe
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview01\CSharpReviewProj01\obj\Debug\CSharpReviewProj01.pdb

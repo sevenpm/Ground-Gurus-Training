@@ -1,0 +1,5 @@
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview02\CSharpProj02\bin\Debug\CSharpProj02.exe.config
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview02\CSharpProj02\bin\Debug\CSharpProj02.exe
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview02\CSharpProj02\bin\Debug\CSharpProj02.pdb
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview02\CSharpProj02\obj\Debug\CSharpProj02.exe
+C:\Users\Akihiro Koyama\Downloads\_ASP.Net Training\Samples\CSharpReview02\CSharpProj02\obj\Debug\CSharpProj02.pdb
